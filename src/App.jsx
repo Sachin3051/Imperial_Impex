@@ -12,6 +12,7 @@ import {
   Testimonials
 } from './components'
 import About from './components/About'
+import Chatbot from './components/Chatbot'
 import Contact from './components/Contact'
 import License from './components/License'
 import QuickConnect from './components/QuickConnect'
@@ -43,6 +44,7 @@ const App = () => {
           <Stats/>
           {/* <Business/> */}
           <Billing/>
+          <Chatbot/>
           {/* <CardDeal/> */}
           {/* <Testimonials/> */}
           {/* <Clients/> */}
