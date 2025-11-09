@@ -17,6 +17,8 @@ import License from './components/License'
 import QuickConnect from './components/QuickConnect'
 import styles from './style'
 
+
+
 const App = () => {
   return (
     <div className='bg-primary w-full overflow-hidden'>
@@ -42,7 +44,7 @@ const App = () => {
           {/* <Business/> */}
           <Billing/>
           {/* <CardDeal/> */}
-          <Testimonials/>
+          {/* <Testimonials/> */}
           {/* <Clients/> */}
           <Contact/>
           {/* <CTA/> */}

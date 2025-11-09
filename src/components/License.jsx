@@ -11,7 +11,7 @@ const License = () => {
   return (
     <section id='license' className="w-full bg-slate-800 py-12">
       <h2 className="text-gradient text-3xl font-semibold text-center mb-8">
-        Associates and Cretified With
+        Associates and Certified With
       </h2>
 
       <div className="overflow-x-auto scrollbar-hidden">

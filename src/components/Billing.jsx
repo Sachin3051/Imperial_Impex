@@ -1,7 +1,7 @@
 import React from 'react';
 import styles, { layout } from '../style';
-import fruits from '../assets/fruits.jpeg'
-import vegetable from '../assets/Vegetable.jpeg'
+import fruits from '../assets/profruits.png'
+import vegetable from '../assets/provegetable.png'
 import  grocery from '../assets/grocery.jpeg'
 
 
